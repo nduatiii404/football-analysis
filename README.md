@@ -35,10 +35,17 @@ football-analysis/
 
 ## How To Run
 
+Clone and enter the project folder:
+
+```bash
+git clone https://github.com/nduatiii404/football-analysis.git
+cd football-analysis
+```
+
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Run the analysis:
